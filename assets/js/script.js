@@ -47,5 +47,4 @@ $(".colorcode").each(function() {
         $(this).addClass("past");
 
     }
-
 });
